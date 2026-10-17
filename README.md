@@ -1,4 +1,3 @@
-```markdown
 # Theory of Finite Relational Agency and Recursive Self-Modification
 
 > **From Pre-Genesis to Observer Boundaries to Bounded Recursive Systems: A Constructive Mathematical Investigation into Finite Awareness, Agency, and Self-Improvement Limits**
@@ -133,4 +132,3 @@ lake build
 
 - **Documentation & Specifications**: Creative Commons Attribution 4.0 International ([CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)).
 - **Code & Proof Kernels**: Apache-2.0 or PolyForm Noncommercial 1.0.0 (refer to individual package licenses).
-```
